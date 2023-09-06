@@ -1,2 +1,4 @@
 # Ignores macOS' Finder created file
 .DS_Store
+# Ignore testing code
+webcamtest.py
